@@ -17,5 +17,4 @@ const cleardiv = () => {
 };
 
 
-
 module.exports = {createCard,cleardiv};
