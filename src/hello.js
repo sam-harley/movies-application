@@ -3,11 +3,13 @@ export default (name) => console.log(`Hello there, ${name}!`);
  const createCard = (Title,Poster,Plot,Ratings,Rated) => {
     let tempCard = "";
     tempCard += `<div class="MovieCard">`;
-    tempCard += `<h2>${Title}</h2>`;
+    tempCard += `<div class="titlebox"><h2 class="MovieTitle">${Title}</h2><img alt="trashbin" src="public/img/002-basket.png"></div>`;
+    tempCard += `<ul class="MovieInfo">`;
+    tempCard += `<li class="listItem"><span class="infoTitle">Plot</span>${Plot}</li>`;
+    tempCard += `<li class="listItem"><span class="infoTitle">IMDB Rating</span>${Ratings}</li>`;
+    tempCard += `<li class="listItem"><span class="infoTitle">Rated</span>${Rated}</li>`;
+    tempCard += `</ul>`;
     tempCard += `<img class="titleCover" alt="${Title} Cover Image" src="${Poster}">`;
-    tempCard += `<p>${Plot}</p>`;
-    tempCard += `<p>${Ratings}</p>`;
-    tempCard += `<p>${Rated}</p>`;
     tempCard += `</div>`;
     return tempCard
 };

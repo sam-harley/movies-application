@@ -53,3 +53,16 @@ fetch(`http://www.omdbapi.com/?apikey=` + movieKey + `&t=` + $("#TitletoAdd").va
           .catch();
     });
 });
+
+
+
+
+$("#clapper").click(function () {
+  if ($(".navBar").css("top") === "-460px"){
+  $(".navBar").css("top","0");
+    $("#clapper").attr("src","img/blackclapper.png")
+  }else{
+    $(".navBar").css("top","-460px");
+    $("#clapper").attr("src","img/whiteclapper.png")
+  }
+});
