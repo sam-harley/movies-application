@@ -17,6 +17,7 @@ li{
     top: -460px;
     border-radius: 0 0 15% 15%;
     background-color: #fcb84b;
+    z-index: 1;
 }
 .container {
 
@@ -112,4 +113,11 @@ body{
 .titlebox{
     grid-column-start: 1;
     grid-column-end: 3;
+    z-index: 0;
+}
+.trash{
+    z-index: 0;
+    position: relative;
+    top: -84px;
+    right: -846px;
 }

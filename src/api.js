@@ -5,6 +5,10 @@ module.exports = {
       .then(response => response.json());
   }
 };
+// $("")
+// fetch('/api/movies',)
+//     .then()
+//
 
 
 // c6defae8

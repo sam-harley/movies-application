@@ -18,8 +18,8 @@ const updatemovies = () => {
   getMovies().then((movies) => {
     console.log("Loaded Library");
     $("#main").html(Movie.cleardiv());
-    movies.forEach(({Title, Poster, Plot, Ratings, Rated}) => {
-      $("#main").append(Movie.createCard(Title, Poster, Plot, Ratings[0].Value, Rated));
+    movies.forEach(({Title, Poster, Plot, Ratings, Rated, id}) => {
+      $("#main").append(Movie.createCard(Title, Poster, Plot, Ratings[0].Value, Rated, id));
     });
 
   }).catch((error) => {
@@ -47,19 +47,31 @@ fetch(`http://www.omdbapi.com/?apikey=` + movieKey + `&t=` + $("#TitletoAdd").va
         body: JSON.stringify(AddMovie)
       };
       fetch(url, options)
-          .then(function () {
-            updatemovies()
+          .then(updatemovies)
           })
           .catch();
     });
 });
 
+$(document).on("click",".trash",function () {
+      let Theid = $(this).attr("id");
+      const url = '/api/movies/' + Theid;
+      const options = {
+        method: 'DELETE',
+        headers: {'Content-Type': 'application/json'}
+      };
+      fetch(url, options)
+          .then(updatemovies)
+  });
+
+const trash = document.getElementsByClassName(".trash");
 
 
 
 $("#clapper").click(function () {
   if ($(".navBar").css("top") === "-460px"){
   $(".navBar").css("top","0");
+  console.log("hello");
     $("#clapper").attr("src","img/blackclapper.png")
   }else{
     $(".navBar").css("top","-460px");
