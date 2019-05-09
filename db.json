@@ -1,14 +1,570 @@
 {
   "movies": [
     {
-      "title": "Casablanca",
-      "rating": "4",
-      "id": 1
+      "Title": "Guardians of the Galaxy",
+      "Year": "2014",
+      "Rated": "PG-13",
+      "Released": "01 Aug 2014",
+      "Runtime": "121 min",
+      "Genre": "Action, Adventure, Comedy, Sci-Fi",
+      "Director": "James Gunn",
+      "Writer": "James Gunn, Nicole Perlman, Dan Abnett (based on the Marvel comics by), Andy Lanning (based on the Marvel comics by), Bill Mantlo (character created by: Rocket Raccoon), Keith Giffen (character created by: Rocket Raccoon), Jim Starlin (characters created by: Drax the Destroyer,  Gamora & Thanos), Steve Englehart (character created by: Star-Lord), Steve Gan (character created by: Star-Lord), Steve Gerber (character created by: Howard the Duck), Val Mayerik (character created by: Howard the Duck)",
+      "Actors": "Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel",
+      "Plot": "A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Nominated for 2 Oscars. Another 52 wins & 99 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTAwMjU5OTgxNjZeQTJeQWpwZ15BbWU4MDUxNDYxODEx._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "91%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "76/100"
+        }
+      ],
+      "Metascore": "76",
+      "imdbRating": "8.1",
+      "imdbVotes": "936,430",
+      "imdbID": "tt2015381",
+      "Type": "movie",
+      "DVD": "09 Dec 2014",
+      "BoxOffice": "$270,592,504",
+      "Production": "Walt Disney Pictures",
+      "Website": "https://www.marvel.com/movies/guardians-of-the-galaxy",
+      "Response": "True",
+      "id": 5
     },
     {
-      "title": "Star Wars: A New Hope",
-      "rating": "5",
-      "id": 2
+      "Title": "The Avengers",
+      "Year": "2012",
+      "Rated": "PG-13",
+      "Released": "04 May 2012",
+      "Runtime": "143 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Joss Whedon",
+      "Writer": "Joss Whedon (screenplay), Zak Penn (story), Joss Whedon (story)",
+      "Actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
+      "Plot": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+      "Language": "English, Russian, Hindi",
+      "Country": "USA",
+      "Awards": "Nominated for 1 Oscar. Another 38 wins & 79 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "69/100"
+        }
+      ],
+      "Metascore": "69",
+      "imdbRating": "8.1",
+      "imdbVotes": "1,165,317",
+      "imdbID": "tt0848228",
+      "Type": "movie",
+      "DVD": "25 Sep 2012",
+      "BoxOffice": "$623,279,547",
+      "Production": "Walt Disney Pictures",
+      "Website": "http://marvel.com/avengers_movie",
+      "Response": "True",
+      "id": 6
+    },
+    {
+      "Title": "The Fifth Element",
+      "Year": "1997",
+      "Rated": "PG-13",
+      "Released": "09 May 1997",
+      "Runtime": "126 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Luc Besson",
+      "Writer": "Luc Besson (screenplay by), Robert Mark Kamen (screenplay by), Luc Besson (story by)",
+      "Actors": "Bruce Willis, Gary Oldman, Ian Holm, Milla Jovovich",
+      "Plot": "In the colorful future, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep Evil and Mr. Zorg at bay.",
+      "Language": "English, Swedish, German, Arabic, Egyptian (Ancient)",
+      "Country": "France",
+      "Awards": "Nominated for 1 Oscar. Another 9 wins & 36 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWFjYmZmZGQtYzg4YS00ZGE5LTgwYzAtZmQwZjQ2NDliMGVmXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "71%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "52/100"
+        }
+      ],
+      "Metascore": "52",
+      "imdbRating": "7.7",
+      "imdbVotes": "401,041",
+      "imdbID": "tt0119116",
+      "Type": "movie",
+      "DVD": "09 Dec 1997",
+      "BoxOffice": "N/A",
+      "Production": "Sony Pictures Home Entertainment",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 7
+    },
+    {
+      "Title": "The Lego Movie",
+      "Year": "2014",
+      "Rated": "PG",
+      "Released": "07 Feb 2014",
+      "Runtime": "100 min",
+      "Genre": "Animation, Action, Adventure, Comedy, Family, Fantasy",
+      "Director": "Phil Lord, Christopher Miller",
+      "Writer": "Phil Lord (screenplay), Christopher Miller (screenplay), Dan Hageman (story), Kevin Hageman (story), Phil Lord (story), Christopher Miller (story), Ole Kirk Christiansen (based on LEGO Construction Toys created by), Godtfred Kirk Christiansen (based on LEGO Construction Toys created by), Jens Nygaard Knudsen (based on LEGO Construction Toys created by), Peter Laird (characters created by: Teenage Mutant Ninja Turtles), Kevin Eastman (characters created by: Teenage Mutant Ninja Turtles)",
+      "Actors": "Will Arnett, Elizabeth Banks, Craig Berry, Alison Brie",
+      "Plot": "An ordinary LEGO construction worker, thought to be the prophesied as \"special\", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.",
+      "Language": "English, Turkish",
+      "Country": "USA, Denmark, Australia",
+      "Awards": "Nominated for 1 Oscar. Another 73 wins & 61 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "83/100"
+        }
+      ],
+      "Metascore": "83",
+      "imdbRating": "7.8",
+      "imdbVotes": "301,846",
+      "imdbID": "tt1490017",
+      "Type": "movie",
+      "DVD": "17 Jun 2014",
+      "BoxOffice": "$244,870,202",
+      "Production": "Warner Bros. Pictures",
+      "Website": "http://thelegomovie.warnerbros.com/",
+      "Response": "True",
+      "id": 8
+    },
+    {
+      "Title": "Avatar",
+      "Year": "2009",
+      "Rated": "PG-13",
+      "Released": "18 Dec 2009",
+      "Runtime": "162 min",
+      "Genre": "Action, Adventure, Fantasy, Sci-Fi",
+      "Director": "James Cameron",
+      "Writer": "James Cameron",
+      "Actors": "Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang",
+      "Plot": "A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+      "Language": "English, Spanish",
+      "Country": "UK, USA",
+      "Awards": "Won 3 Oscars. Another 85 wins & 128 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "82%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "83/100"
+        }
+      ],
+      "Metascore": "83",
+      "imdbRating": "7.8",
+      "imdbVotes": "1,038,709",
+      "imdbID": "tt0499549",
+      "Type": "movie",
+      "DVD": "22 Apr 2010",
+      "BoxOffice": "$749,700,000",
+      "Production": "20th Century Fox",
+      "Website": "http://www.avatarmovie.com/",
+      "Response": "True",
+      "id": 9
+    },
+    {
+      "Title": "Back to the Future",
+      "Year": "1985",
+      "Rated": "PG",
+      "Released": "03 Jul 1985",
+      "Runtime": "116 min",
+      "Genre": "Adventure, Comedy, Sci-Fi",
+      "Director": "Robert Zemeckis",
+      "Writer": "Robert Zemeckis, Bob Gale",
+      "Actors": "Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover",
+      "Plot": "Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Won 1 Oscar. Another 19 wins & 25 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "87/100"
+        }
+      ],
+      "Metascore": "87",
+      "imdbRating": "8.5",
+      "imdbVotes": "922,610",
+      "imdbID": "tt0088763",
+      "Type": "movie",
+      "DVD": "17 Dec 2002",
+      "BoxOffice": "$2,925,880",
+      "Production": "Universal Pictures",
+      "Website": "http://www.bttfmovie.com/",
+      "Response": "True",
+      "id": 10
+    },
+    {
+      "Title": "Jaws",
+      "Year": "1975",
+      "Rated": "PG",
+      "Released": "20 Jun 1975",
+      "Runtime": "124 min",
+      "Genre": "Adventure, Drama, Thriller",
+      "Director": "Steven Spielberg",
+      "Writer": "Peter Benchley (screenplay), Carl Gottlieb (screenplay), Peter Benchley (based on the novel by)",
+      "Actors": "Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary",
+      "Plot": "When a killer shark unleashes chaos on a beach community, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Won 3 Oscars. Another 11 wins & 18 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmVmODY1MzEtYTMwZC00MzNhLWFkNDMtZjAwM2EwODUxZTA5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "87/100"
+        }
+      ],
+      "Metascore": "87",
+      "imdbRating": "8.0",
+      "imdbVotes": "507,046",
+      "imdbID": "tt0073195",
+      "Type": "movie",
+      "DVD": "11 Jul 2000",
+      "BoxOffice": "N/A",
+      "Production": "Universal Pictures",
+      "Website": "http://www.jaws25.com/",
+      "Response": "True",
+      "id": 11
+    },
+    {
+      "Title": "The Matrix",
+      "Year": "1999",
+      "Rated": "R",
+      "Released": "31 Mar 1999",
+      "Runtime": "136 min",
+      "Genre": "Action, Sci-Fi",
+      "Director": "Lana Wachowski, Lilly Wachowski",
+      "Writer": "Lilly Wachowski, Lana Wachowski",
+      "Actors": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving",
+      "Plot": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Won 4 Oscars. Another 34 wins & 48 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "88%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "73/100"
+        }
+      ],
+      "Metascore": "73",
+      "imdbRating": "8.7",
+      "imdbVotes": "1,488,823",
+      "imdbID": "tt0133093",
+      "Type": "movie",
+      "DVD": "21 Sep 1999",
+      "BoxOffice": "N/A",
+      "Production": "Warner Bros. Pictures",
+      "Website": "http://www.whatisthematrix.com",
+      "Response": "True",
+      "id": 12
+    },
+    {
+      "Title": "Your Name",
+      "Year": "2015",
+      "Rated": "N/A",
+      "Released": "04 Jul 2015",
+      "Runtime": "22 min",
+      "Genre": "Short",
+      "Director": "Megumi Shiraishi",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "Ibe Riki and Riko Takeo are preparing for a wedding ceremony.",
+      "Language": "N/A",
+      "Country": "Japan",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGY0ZjY4ZGItNmY1Ny00YzAwLWI0Y2EtODQwZTcwMDU0NzgyXkEyXkFqcGdeQXVyMTgwOTE5NDk@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.9/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.9",
+      "imdbVotes": "221",
+      "imdbID": "tt6033368",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 13
+    },
+    {
+      "Title": "Dawn of the Dead",
+      "Year": "2004",
+      "Rated": "R",
+      "Released": "19 Mar 2004",
+      "Runtime": "101 min",
+      "Genre": "Horror",
+      "Director": "Zack Snyder",
+      "Writer": "George A. Romero, James Gunn (screenplay)",
+      "Actors": "Sarah Polley, Ving Rhames, Jake Weber, Mekhi Phifer",
+      "Plot": "A nurse, a policeman, a young married couple, a salesman, and other survivors of a worldwide plague that is producing aggressive, flesh-eating zombies, take refuge in a mega Midwestern shopping mall.",
+      "Language": "English",
+      "Country": "USA, Canada, Japan, France",
+      "Awards": "1 win & 17 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2M2ZmU2OGQtNmU5Yi00MTIyLTgwNWMtYjljMzZlYTdiNjBhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "75%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "59/100"
+        }
+      ],
+      "Metascore": "59",
+      "imdbRating": "7.3",
+      "imdbVotes": "219,831",
+      "imdbID": "tt0363547",
+      "Type": "movie",
+      "DVD": "28 Dec 2004",
+      "BoxOffice": "$58,885,635",
+      "Production": "Universal Pictures",
+      "Website": "http://www.dawnofthedeadmovie.net/",
+      "Response": "True",
+      "id": 14
+    },
+    {
+      "Title": "Transformers",
+      "Year": "2007",
+      "Rated": "PG-13",
+      "Released": "03 Jul 2007",
+      "Runtime": "144 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Michael Bay",
+      "Writer": "Roberto Orci (screenplay), Alex Kurtzman (screenplay), John Rogers (story), Roberto Orci (story), Alex Kurtzman (story)",
+      "Actors": "Shia LaBeouf, Megan Fox, Josh Duhamel, Tyrese Gibson",
+      "Plot": "An ancient struggle between two Cybertronian races, the heroic Autobots and the evil Decepticons, comes to Earth, with a clue to the ultimate power held by a teenager.",
+      "Language": "English, Spanish",
+      "Country": "USA",
+      "Awards": "Nominated for 3 Oscars. Another 20 wins & 41 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDg1NTU2OWEtM2UzYi00ZWRmLWEwMTktZWNjYWQ1NWM1OThjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "57%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "61/100"
+        }
+      ],
+      "Metascore": "61",
+      "imdbRating": "7.1",
+      "imdbVotes": "567,235",
+      "imdbID": "tt0418279",
+      "Type": "movie",
+      "DVD": "16 Oct 2007",
+      "BoxOffice": "$319,014,499",
+      "Production": "Dreamworks",
+      "Website": "http://www.transformersmovie.com/",
+      "Response": "True",
+      "id": 15
+    },
+    {
+      "Title": "Mulan",
+      "Year": "1998",
+      "Rated": "G",
+      "Released": "19 Jun 1998",
+      "Runtime": "88 min",
+      "Genre": "Animation, Adventure, Family, Fantasy, Musical, War",
+      "Director": "Tony Bancroft, Barry Cook",
+      "Writer": "Robert D. San Souci (based on a story by), Rita Hsiao (screenplay by), Chris Sanders (screenplay by), Philip LaZebnik (screenplay by), Raymond Singer (screenplay by), Eugenia Bostwick-Singer (screenplay by), Dean DeBlois (story co-head), John Sanford (story), Chris Williams (story), Tim Hodge (story), Julius Aguimatang (story), Burny Mattinson (story), Lorna Cook (story), Barry Johnson (story), Thom Enriquez (story), Ed Gombert (story), Joe Grant (story), Floyd Norman (story), Linda Woolverton (additional story material), Jodi Ann Johnson (additional story material), Alan Ormsby (additional story material), David Reynolds (additional story material), Don Dougherty (additional story material), Jorgen Klubien (additional story material), Denis Rich (additional story material), Joe Ekers (additional story material), Theodore Newton (additional story material), Larry Scholl (additional story material), Daan Jippes (additional story material), Frank Nissen (additional story material), Jeff Snow (additional story material)",
+      "Actors": "Miguel Ferrer, Harvey Fierstein, Freda Foh Shen, June Foray",
+      "Plot": "To save her father from death in the army, a young maiden secretly goes in his place and becomes one of China's greatest heroines in the process.",
+      "Language": "English, Mandarin",
+      "Country": "USA",
+      "Awards": "Nominated for 1 Oscar. Another 17 wins & 20 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODkxNGQ1NWYtNzg0Ny00Yjg3LThmZTItMjE2YjhmZTQ0ODY5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "86%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "71/100"
+        }
+      ],
+      "Metascore": "71",
+      "imdbRating": "7.6",
+      "imdbVotes": "219,047",
+      "imdbID": "tt0120762",
+      "Type": "movie",
+      "DVD": "09 Nov 1999",
+      "BoxOffice": "N/A",
+      "Production": "Buena Vista",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 16
+    },
+    {
+      "Title": "Toy Story",
+      "Year": "1995",
+      "Rated": "G",
+      "Released": "22 Nov 1995",
+      "Runtime": "81 min",
+      "Genre": "Animation, Adventure, Comedy, Family, Fantasy",
+      "Director": "John Lasseter",
+      "Writer": "John Lasseter (original story by), Pete Docter (original story by), Andrew Stanton (original story by), Joe Ranft (original story by), Joss Whedon (screenplay by), Andrew Stanton (screenplay by), Joel Cohen (screenplay by), Alec Sokolow (screenplay by)",
+      "Actors": "Tom Hanks, Tim Allen, Don Rickles, Jim Varney",
+      "Plot": "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Nominated for 3 Oscars. Another 23 wins & 17 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "95/100"
+        }
+      ],
+      "Metascore": "95",
+      "imdbRating": "8.3",
+      "imdbVotes": "783,232",
+      "imdbID": "tt0114709",
+      "Type": "movie",
+      "DVD": "20 Mar 2001",
+      "BoxOffice": "N/A",
+      "Production": "Buena Vista",
+      "Website": "http://www.disney.com/ToyStory",
+      "Response": "True",
+      "id": 17
+    },
+    {
+      "Title": "The Emoji Movie",
+      "Year": "2017",
+      "Rated": "PG",
+      "Released": "28 Jul 2017",
+      "Runtime": "86 min",
+      "Genre": "Animation, Adventure, Comedy, Family, Fantasy",
+      "Director": "Tony Leondis",
+      "Writer": "Tony Leondis (screenplay by), Eric Siegel (screenplay by), Mike White (screenplay by), Tony Leondis (story by), Eric Siegel (story by), John Hoffman (additional screenplay material)",
+      "Actors": "T.J. Miller, James Corden, Anna Faris, Maya Rudolph",
+      "Plot": "Gene, a multi-expressional emoji, sets out on a journey to become a normal emoji.",
+      "Language": "English, Spanish",
+      "Country": "USA",
+      "Awards": "5 wins & 3 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTkzMzM3OTM2Ml5BMl5BanBnXkFtZTgwMDM0NDU3MjI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "3.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "7%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "12/100"
+        }
+      ],
+      "Metascore": "12",
+      "imdbRating": "3.2",
+      "imdbVotes": "46,270",
+      "imdbID": "tt4877122",
+      "Type": "movie",
+      "DVD": "24 Oct 2017",
+      "BoxOffice": "$86,053,485",
+      "Production": "Sony Pictures Animation",
+      "Website": "http://www.theemoji-movie.com/",
+      "Response": "True",
+      "id": 18
     }
   ]
 }
