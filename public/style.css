@@ -154,7 +154,19 @@ body{
         z-index: 0;
         position: relative;
         top: -84px;
-        right: -846px;
+        right: -750px;
+    }
+    .trash:hover{
+        background-image: url("img/clear.png");
+    }
+    .star {
+        z-index: 0;
+        position: relative;
+        top: -84px;
+        right: -746px;
+    }
+    .star:hover{
+        background-image: url("img/002-star.png");
     }
 
     #filmSelection {
