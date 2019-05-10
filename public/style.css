@@ -62,12 +62,13 @@ li{
     grid-column-start: 1;
     grid-column-end: 2;
     margin: 10px auto;
-    background-color: #fcb84b;
+    background-color: #dc8f3c;
     border-radius: 10px;
+    color: aliceblue;
 }
 .infoTitle{
 
-    color: #e29924;
+    color: black;
     border-radius: 5px;
     padding: 0 10px;
     margin-right: 5px;
@@ -120,4 +121,20 @@ body{
     position: relative;
     top: -84px;
     right: -846px;
+}
+#filmSelection{
+    height: 60px;
+    width: 45%;
+    margin: 10px 0;
+    border: black solid 1px;
+    font-size: 40px;
+    border-radius: 15px 0 0 15px;
+}
+#changeselection{
+    height: 64px;
+    font-size: 40px;
+    width: 45%;
+    border: black solid 1px;
+    margin: 10px 0;
+    border-radius: 0 15px 15px 0;
 }
