@@ -18,8 +18,8 @@ const updatemovies = () => {
   getMovies().then((movies) => {
     console.log("Loaded Library");
     $("#main").html(Movie.cleardiv());
-    movies.forEach(({Title, Poster, Plot, Ratings, Rated, id}) => {
-      $("#main").append(Movie.createCard(Title, Poster, Plot, Ratings[0].Value, Rated, id));
+    movies.forEach(({Title, Poster, Plot, Ratings, Rated, id,Production,Runtime,Released,Genre,Director}) => {
+      $("#main").append(Movie.createCard(Title, Poster, Plot, Ratings[0].Value, Rated, id,Production,Runtime,Released,Genre,Director));
     });
 
   }).catch((error) => {
@@ -110,12 +110,12 @@ fetch('/api/movies/6')
 
 
         $("#clapper").click(function () {
-            if ($(".navBar").css("top") === "-460px") {
+            if ($(".navBar").css("top") === "-130px") {
                 $(".navBar").css("top", "0");
                 console.log("hello");
                 $("#clapper").attr("src", "img/blackclapper.png")
             } else {
-                $(".navBar").css("top", "-460px");
+                $(".navBar").css("top", "-130px");
                 $("#clapper").attr("src", "img/whiteclapper.png")
             }
         });

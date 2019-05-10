@@ -543,7 +543,7 @@
       "Director": "Brad Bird",
       "Writer": "Tim McCanlies (screenplay by), Brad Bird (screen story by), Ted Hughes (based on the book \"The Iron Man\" by)",
       "Actors": "Jennifer Aniston, Harry Connick Jr., Vin Diesel, James Gammon",
-      "Plot": "A young boy befriends a giant robot from outer space that a paranoid government agent wants to destroy.",
+      "Plot": "A young boy befriends a giant robot that awakes with dementia from outer space that a paranoid government agent wants to destroy.",
       "Language": "English",
       "Country": "USA",
       "Awards": "20 wins & 18 nominations.",
@@ -573,47 +573,6 @@
       "Website": "http://www.irongiant.com",
       "Response": "True",
       "id": 22
-    },
-    {
-      "Title": "Halloween",
-      "Year": "1978",
-      "Rated": "R",
-      "Released": "27 Oct 1978",
-      "Runtime": "91 min",
-      "Genre": "Horror, Thriller",
-      "Director": "John Carpenter",
-      "Writer": "John Carpenter (screenplay), Debra Hill (screenplay)",
-      "Actors": "Donald Pleasence, Jamie Lee Curtis, Nancy Kyes, P.J. Soles",
-      "Plot": "Fifteen years after murdering his sister on Halloween night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again.",
-      "Language": "English",
-      "Country": "USA",
-      "Awards": "5 wins & 2 nominations.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNzk1OGU2NmMtNTdhZC00NjdlLWE5YTMtZTQ0MGExZTQzOGQyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.8/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "95%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "81/100"
-        }
-      ],
-      "Metascore": "81",
-      "imdbRating": "7.8",
-      "imdbVotes": "203,619",
-      "imdbID": "tt0077651",
-      "Type": "movie",
-      "DVD": "27 Oct 1997",
-      "BoxOffice": "N/A",
-      "Production": "Compass International Pictures",
-      "Website": "N/A",
-      "Response": "True",
-      "id": 23
     },
     {
       "Title": "Pineapple Express",
@@ -733,6 +692,498 @@
       "Website": "http://www.ironmanmovie.com/",
       "Response": "True",
       "id": 26
+    },
+    {
+      "Title": "The Godfather",
+      "Year": "1972",
+      "Rated": "R",
+      "Released": "24 Mar 1972",
+      "Runtime": "175 min",
+      "Genre": "Crime, Drama",
+      "Director": "Francis Ford Coppola",
+      "Writer": "Mario Puzo (screenplay by), Francis Ford Coppola (screenplay by), Mario Puzo (based on the novel by)",
+      "Actors": "Marlon Brando, Al Pacino, James Caan, Richard S. Castellano",
+      "Plot": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "Language": "English, Italian, Latin",
+      "Country": "USA",
+      "Awards": "Won 3 Oscars. Another 24 wins & 28 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "9.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "98%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "100/100"
+        }
+      ],
+      "Metascore": "100",
+      "imdbRating": "9.2",
+      "imdbVotes": "1,425,400",
+      "imdbID": "tt0068646",
+      "Type": "movie",
+      "DVD": "09 Oct 2001",
+      "BoxOffice": "N/A",
+      "Production": "Paramount Pictures",
+      "Website": "http://www.thegodfather.com",
+      "Response": "True",
+      "id": 27
+    },
+    {
+      "Title": "The Shawshank Redemption",
+      "Year": "1994",
+      "Rated": "R",
+      "Released": "14 Oct 1994",
+      "Runtime": "142 min",
+      "Genre": "Drama",
+      "Director": "Frank Darabont",
+      "Writer": "Stephen King (short story \"Rita Hayworth and Shawshank Redemption\"), Frank Darabont (screenplay)",
+      "Actors": "Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler",
+      "Plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Nominated for 7 Oscars. Another 19 wins & 32 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "9.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "91%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "80/100"
+        }
+      ],
+      "Metascore": "80",
+      "imdbRating": "9.3",
+      "imdbVotes": "2,084,570",
+      "imdbID": "tt0111161",
+      "Type": "movie",
+      "DVD": "27 Jan 1998",
+      "BoxOffice": "N/A",
+      "Production": "Columbia Pictures",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 28
+    },
+    {
+      "Title": "The Dark Knight",
+      "Year": "2008",
+      "Rated": "PG-13",
+      "Released": "18 Jul 2008",
+      "Runtime": "152 min",
+      "Genre": "Action, Crime, Drama, Thriller",
+      "Director": "Christopher Nolan",
+      "Writer": "Jonathan Nolan (screenplay), Christopher Nolan (screenplay), Christopher Nolan (story), David S. Goyer (story), Bob Kane (characters)",
+      "Actors": "Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine",
+      "Plot": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "Language": "English, Mandarin",
+      "Country": "USA, UK",
+      "Awards": "Won 2 Oscars. Another 152 wins & 155 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "9.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "94%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "84/100"
+        }
+      ],
+      "Metascore": "84",
+      "imdbRating": "9.0",
+      "imdbVotes": "2,039,506",
+      "imdbID": "tt0468569",
+      "Type": "movie",
+      "DVD": "09 Dec 2008",
+      "BoxOffice": "$533,316,061",
+      "Production": "Warner Bros. Pictures/Legendary",
+      "Website": "http://thedarkknight.warnerbros.com/",
+      "Response": "True",
+      "id": 29
+    },
+    {
+      "Title": "Gladiator",
+      "Year": "2000",
+      "Rated": "R",
+      "Released": "05 May 2000",
+      "Runtime": "155 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "Ridley Scott",
+      "Writer": "David Franzoni (story), David Franzoni (screenplay), John Logan (screenplay), William Nicholson (screenplay)",
+      "Actors": "Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed",
+      "Plot": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+      "Language": "English",
+      "Country": "USA, UK, Malta, Morocco",
+      "Awards": "Won 5 Oscars. Another 53 wins & 101 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "76%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "67/100"
+        }
+      ],
+      "Metascore": "67",
+      "imdbRating": "8.5",
+      "imdbVotes": "1,202,989",
+      "imdbID": "tt0172495",
+      "Type": "movie",
+      "DVD": "21 Nov 2000",
+      "BoxOffice": "N/A",
+      "Production": "Dreamworks Distribution LLC",
+      "Website": "http://www.gladiator-thefilm.com",
+      "Response": "True",
+      "id": 30
+    },
+    {
+      "Title": "Jurassic Park",
+      "Year": "1993",
+      "Rated": "PG-13",
+      "Released": "11 Jun 1993",
+      "Runtime": "127 min",
+      "Genre": "Adventure, Sci-Fi, Thriller",
+      "Director": "Steven Spielberg",
+      "Writer": "Michael Crichton (novel), Michael Crichton (screenplay), David Koepp (screenplay)",
+      "Actors": "Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough",
+      "Plot": "During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok.",
+      "Language": "English, Spanish",
+      "Country": "USA",
+      "Awards": "Won 3 Oscars. Another 32 wins & 25 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "91%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "68/100"
+        }
+      ],
+      "Metascore": "68",
+      "imdbRating": "8.1",
+      "imdbVotes": "775,259",
+      "imdbID": "tt0107290",
+      "Type": "movie",
+      "DVD": "10 Oct 2000",
+      "BoxOffice": "$45,299,680",
+      "Production": "Universal City Studios",
+      "Website": "http://www.jurassicpark.com/maingate_flash.html",
+      "Response": "True",
+      "id": 31
+    },
+    {
+      "Title": "Terminator 2: Judgment Day",
+      "Year": "1991",
+      "Rated": "R",
+      "Released": "03 Jul 1991",
+      "Runtime": "137 min",
+      "Genre": "Action, Sci-Fi",
+      "Director": "James Cameron",
+      "Writer": "James Cameron, William Wisher",
+      "Actors": "Arnold Schwarzenegger, Linda Hamilton, Edward Furlong, Robert Patrick",
+      "Plot": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her teenage son, John Connor, from a more advanced and powerful cyborg.",
+      "Language": "English, Spanish",
+      "Country": "USA",
+      "Awards": "Won 4 Oscars. Another 27 wins & 27 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "75/100"
+        }
+      ],
+      "Metascore": "75",
+      "imdbRating": "8.5",
+      "imdbVotes": "901,145",
+      "imdbID": "tt0103064",
+      "Type": "movie",
+      "DVD": "31 Mar 1998",
+      "BoxOffice": "$198,116,802",
+      "Production": "TriStar Pictures",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 32
+    },
+    {
+      "Title": "Rocky",
+      "Year": "1976",
+      "Rated": "PG",
+      "Released": "03 Dec 1976",
+      "Runtime": "120 min",
+      "Genre": "Drama, Sport",
+      "Director": "John G. Avildsen",
+      "Writer": "Sylvester Stallone",
+      "Actors": "Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers",
+      "Plot": "A small-time boxer gets a supremely rare chance to fight a heavy-weight champion in a bout in which he strives to go the distance for his self-respect.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Won 3 Oscars. Another 17 wins & 21 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTcwMTQ3NTMyNA@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "70/100"
+        }
+      ],
+      "Metascore": "70",
+      "imdbRating": "8.1",
+      "imdbVotes": "467,776",
+      "imdbID": "tt0075148",
+      "Type": "movie",
+      "DVD": "07 Aug 2006",
+      "BoxOffice": "N/A",
+      "Production": "United Artists",
+      "Website": "http://rockythemovie.com/",
+      "Response": "True",
+      "id": 33
+    },
+    {
+      "Title": "Die Hard",
+      "Year": "1988",
+      "Rated": "R",
+      "Released": "20 Jul 1988",
+      "Runtime": "132 min",
+      "Genre": "Action, Thriller",
+      "Director": "John McTiernan",
+      "Writer": "Roderick Thorp (novel), Jeb Stuart (screenplay), Steven E. de Souza (screenplay)",
+      "Actors": "Bruce Willis, Bonnie Bedelia, Reginald VelJohnson, Paul Gleason",
+      "Plot": "An NYPD officer tries to save his wife and several others taken hostage by German terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.",
+      "Language": "English, German, Italian, Japanese",
+      "Country": "USA",
+      "Awards": "Nominated for 4 Oscars. Another 7 wins & 2 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "72/100"
+        }
+      ],
+      "Metascore": "72",
+      "imdbRating": "8.2",
+      "imdbVotes": "715,063",
+      "imdbID": "tt0095016",
+      "Type": "movie",
+      "DVD": "09 Mar 1999",
+      "BoxOffice": "N/A",
+      "Production": "20th Century Fox",
+      "Website": "https://www.foxmovies.com/movies/die-hard",
+      "Response": "True",
+      "id": 34
+    },
+    {
+      "Title": "Full Metal Jacket",
+      "Year": "1987",
+      "Rated": "R",
+      "Released": "10 Jul 1987",
+      "Runtime": "116 min",
+      "Genre": "Drama, War",
+      "Director": "Stanley Kubrick",
+      "Writer": "Stanley Kubrick (screenplay by), Michael Herr (screenplay by), Gustav Hasford (screenplay by), Gustav Hasford (based on the novel \"The Short Timers\" by)",
+      "Actors": "Matthew Modine, Adam Baldwin, Vincent D'Onofrio, R. Lee Ermey",
+      "Plot": "A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+      "Language": "English, Vietnamese",
+      "Country": "UK, USA",
+      "Awards": "Nominated for 1 Oscar. Another 7 wins & 11 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzkxODk0NjEtYjc4Mi00ZDI0LTgyYjEtYzc1NDkxY2YzYTgyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "91%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "76/100"
+        }
+      ],
+      "Metascore": "76",
+      "imdbRating": "8.3",
+      "imdbVotes": "604,967",
+      "imdbID": "tt0093058",
+      "Type": "movie",
+      "DVD": "29 Jun 1999",
+      "BoxOffice": "N/A",
+      "Production": "Warner Bros.",
+      "Website": "https://www.warnerbros.com/full-metal-jacket",
+      "Response": "True",
+      "id": 35
+    },
+    {
+      "Title": "Alien",
+      "Year": "1979",
+      "Rated": "R",
+      "Released": "22 Jun 1979",
+      "Runtime": "117 min",
+      "Genre": "Horror, Sci-Fi",
+      "Director": "Ridley Scott",
+      "Writer": "Dan O'Bannon (story), Ronald Shusett (story), Dan O'Bannon (screenplay)",
+      "Actors": "Tom Skerritt, Sigourney Weaver, Veronica Cartwright, Harry Dean Stanton",
+      "Plot": "After a space merchant vessel perceives an unknown transmission as a distress call, its landing on the source moon finds one of the crew attacked by a mysterious lifeform, and they soon realize that its life cycle has merely begun.",
+      "Language": "English",
+      "Country": "UK, USA",
+      "Awards": "Won 1 Oscar. Another 16 wins & 19 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmQ2MmU3NzktZjAxOC00ZDZhLTk4YzEtMDMyMzcxY2IwMDAyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "89/100"
+        }
+      ],
+      "Metascore": "89",
+      "imdbRating": "8.5",
+      "imdbVotes": "708,529",
+      "imdbID": "tt0078748",
+      "Type": "movie",
+      "DVD": "06 Jan 2004",
+      "BoxOffice": "N/A",
+      "Production": "20th Century Fox",
+      "Website": "https://www.foxmovies.com/movies/alien",
+      "Response": "True",
+      "id": 36
+    },
+    {
+      "Title": "Monty Python and the Holy Grail",
+      "Year": "1975",
+      "Rated": "PG",
+      "Released": "25 May 1975",
+      "Runtime": "91 min",
+      "Genre": "Adventure, Comedy, Fantasy",
+      "Director": "Terry Gilliam, Terry Jones",
+      "Writer": "Graham Chapman, John Cleese, Eric Idle, Terry Gilliam, Terry Jones, Michael Palin",
+      "Actors": "Graham Chapman, John Cleese, Eric Idle, Terry Gilliam",
+      "Plot": "King Arthur and his Knights of the Round Table embark on a surreal, low-budget search for the Holy Grail, encountering many, very silly obstacles.",
+      "Language": "English, French, Latin",
+      "Country": "UK",
+      "Awards": "2 wins & 2 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2IyNTE4YzUtZWU0Mi00MGIwLTgyMmQtMzQ4YzQxYWNlYWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "93/100"
+        }
+      ],
+      "Metascore": "93",
+      "imdbRating": "8.3",
+      "imdbVotes": "457,339",
+      "imdbID": "tt0071853",
+      "Type": "movie",
+      "DVD": "07 Sep 1999",
+      "BoxOffice": "N/A",
+      "Production": "Almi Cinema 5",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 37
+    },
+    {
+      "Title": "Batman Begins",
+      "Year": "2005",
+      "Rated": "PG-13",
+      "Released": "15 Jun 2005",
+      "Runtime": "140 min",
+      "Genre": "Action, Adventure",
+      "Director": "Christopher Nolan",
+      "Writer": "Bob Kane (characters), David S. Goyer (story), Christopher Nolan (screenplay), David S. Goyer (screenplay)",
+      "Actors": "Christian Bale, Michael Caine, Liam Neeson, Katie Holmes",
+      "Plot": "After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corruption.",
+      "Language": "English, Urdu, Mandarin",
+      "Country": "USA, UK",
+      "Awards": "Nominated for 1 Oscar. Another 14 wins & 72 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmUwNGU2ZmItMmRiNC00MjhlLTg5YWUtODMyNzkxODYzMmZlXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "84%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "70/100"
+        }
+      ],
+      "Metascore": "70",
+      "imdbRating": "8.2",
+      "imdbVotes": "1,186,021",
+      "imdbID": "tt0372784",
+      "Type": "movie",
+      "DVD": "18 Oct 2005",
+      "BoxOffice": "$204,100,000",
+      "Production": "Warner Bros. Pictures",
+      "Website": "https://www.warnerbros.com/batman-begins",
+      "Response": "True",
+      "id": 38
     }
   ]
 }
